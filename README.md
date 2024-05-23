@@ -4,7 +4,9 @@ This project is a simple search component built using React.js. The component al
 
 ## Get Started
 git clone https://github.com/yourusername/searchApp.git
+
 cd simple-search-component
+
 npm install
 
 
